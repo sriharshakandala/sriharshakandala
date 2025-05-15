@@ -1,5 +1,19 @@
 ## Hi there 👋
+This is Sriharsha Kandala!
 
+## About me
+I am a software engineer with a background in computational fluid dynamics. I am passionate about developing efficient and scalable software for HPC on distributed CPU and GPU platforms. I am interested in both traditional (computational physics) and modern (AI/ML) HPC applications.
+
+My doctoral work involved development of `Specsolve`, a distributed spectral element solver for simulation of incompressible turbulent flows in complex
+domains. The code is written in C++ and uses MPI for communication. 
+
+Some of the open-source projects I contributed to include:
+- [RRTMGP.jl](https://github.com/CliMA/RRTMGP.jl): A 2-stream radiatiation transfer model.
+- [ClimaComms.jl](https://github.com/CliMA/ClimaComms.jl): Communications infrastructure for the dynamical core.
+- [ClimaCore.jl](https://github.com/CliMA/ClimaCore.jl): Spatial discretizations for the dynamical core.
+- [ClimaAtmos.jl](https://github.com/CliMA/ClimaAtmos.jl): The atmosphere model.
+- [ClimaInterpolations.jl](https://github.com/CliMA/ClimaInterpolations.jl): A collection of interpolation tools for the `CliMA` ecosytem.
+- [ClimateMachine.jl](https://github.com/CliMA/ClimateMachine.jl): Our earlier atmosphere model based on discontinuous Galerkin method.
 <!--
 **sriharshakandala/sriharshakandala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
