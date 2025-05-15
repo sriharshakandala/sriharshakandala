@@ -14,6 +14,8 @@ Some of the open-source projects I contributed to include:
 - [ClimaAtmos.jl](https://github.com/CliMA/ClimaAtmos.jl): The atmosphere model.
 - [ClimaInterpolations.jl](https://github.com/CliMA/ClimaInterpolations.jl): A collection of interpolation tools for the `CliMA` ecosytem.
 - [ClimateMachine.jl](https://github.com/CliMA/ClimateMachine.jl): Our earlier atmosphere model based on discontinuous Galerkin method.
+
+My JuliaCon 2024 talk on communications patterns and scaling of our dynamical core can be found [here](https://www.youtube.com/watch?v=Zf49ukec-Rc).
 <!--
 **sriharshakandala/sriharshakandala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
