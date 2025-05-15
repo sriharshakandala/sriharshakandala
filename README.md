@@ -19,9 +19,12 @@ My JuliaCon 2024 talk on communications patterns and scaling of our dynamical co
 
 ## `Specsolve` gallery
 
-[Kelvin-Helmholtz instability](https://github.com/sriharshakandala/sriharshakandala/blob/main/assets/kelvin_helmholtz.mp4)
+### Kelvin-Helmholtz instability
+https://github.com/user-attachments/assets/7d8da656-0a50-4252-bf12-46ee4a8393e3
 
-[Vortex shedding from a circular cylinder](https://github.com/sriharshakandala/sriharshakandala/blob/main/assets/vortex_shedding.mp4)
+### Vortex shedding from circular cylinder
+https://github.com/user-attachments/assets/36732810-27b5-4284-9559-19028d0ec2ad
+
 <!--
 **sriharshakandala/sriharshakandala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
