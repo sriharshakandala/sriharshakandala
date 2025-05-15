@@ -16,6 +16,12 @@ Some of the open-source projects I contributed to include:
 - [ClimateMachine.jl](https://github.com/CliMA/ClimateMachine.jl): Our earlier atmosphere model based on discontinuous Galerkin method.
 
 My JuliaCon 2024 talk on communications patterns and scaling of our dynamical core can be found [here](https://www.youtube.com/watch?v=Zf49ukec-Rc).
+
+## `Specsolve` gallery
+
+[Kelvin-Helmholtz instability](https://github.com/sriharshakandala/sriharshakandala/blob/main/assets/kelvin_helmholtz.mp4)
+
+[Vortex shedding from a circular cylinder](https://github.com/sriharshakandala/sriharshakandala/blob/main/assets/vortex_shedding.mp4)
 <!--
 **sriharshakandala/sriharshakandala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
